@@ -1,0 +1,12 @@
+{
+    "nodes":
+    [
+        {"name": "parent", "category": 1}, 
+        {"name": "child", "category": 0}
+    ], 
+    "links": 
+    [
+        {"source": 1, "target": 0}, 
+        {"source": 0, "target": 1}
+    ]
+}
